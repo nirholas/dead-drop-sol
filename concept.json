@@ -1,0 +1,11 @@
+{
+  "slug": "dead-drop-sol",
+  "name": "Dead Drop SOL",
+  "kind": "proof",
+  "description": "Prepare encrypted-message metadata and recipient hints without exposing plaintext.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
