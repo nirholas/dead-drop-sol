@@ -8,7 +8,7 @@ Prepare encrypted-message metadata and recipient hints without exposing plaintex
 
 - Source: https://github.com/nirholas/dead-drop-sol
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
